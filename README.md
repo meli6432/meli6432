@@ -1,8 +1,9 @@
-<p align="center"> <img src="https://img.freepik.com/foto-gratis/analisis-datos-comerciales_53876-95296.jpg?ga=GA1.1.1758214688.1748370423&semt=ais_items_boosted&w=740"/>
+<h1 align="center">¡Hola! Soy Sandra 😊</h1>
+
+<p align="center"> <img src="https://generalassemb.ly/_next/image?url=https%3A%2F%2Fgeneralassembly.bynder.com%2Ftransform%2F1a80fe5f-aa63-41e6-ad14-86629a908a5a%2FAdobeStock_482832614b&w=1440&q=75" alt="banner" height="300" />
 
 ---
 
-<h1 align="center">¡Hola! Soy Sandra 😊</h1>
 <p align="center">
 Analista de Datos Jr con background en servicio al cliente<br>
 Transformo datos en decisiones usando Python, SQL y Tableau
