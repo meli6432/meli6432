@@ -1,5 +1,4 @@
-
-<p align="center"> <img src="https://img.freepik.com/vector-gratis/ilustracion-analisis-negocios-dibujado-mano-plana_1188-560.jpg?ga=GA1.1.1758214688.1748370423&semt=ais_items_boosted&w=740"/>
+<p align="center"> <img src="https://img.freepik.com/foto-gratis/analisis-datos-comerciales_53876-95296.jpg?ga=GA1.1.1758214688.1748370423&semt=ais_items_boosted&w=740"/>
 
 ---
 
